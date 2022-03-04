@@ -23,3 +23,4 @@ git clone https://github.com/kashvi05/CryptoPolice.git
 ```
 
 #### Run the notebooks
+* First run Installation.ipnyb to ensure that you have the necessary packages required for this project to run.
