@@ -21,3 +21,5 @@ jupyter notebook
 ```bash
 git clone https://github.com/kashvi05/CryptoPolice.git
 ```
+
+#### Run the notebooks
