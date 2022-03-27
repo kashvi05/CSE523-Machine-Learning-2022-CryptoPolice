@@ -1,0 +1,11 @@
+Time series forecasting of Bitcoin
+
+	Treated the problem as classification. Used Bayesian optimized RNN and LSTM --> (52% accuracy and 8% RMSE). Used ANN (65% accuracy). Then for regression problem, employed ANN and SVM with MAPE of 1.58%. ML Algorithms such as SVM, LSTM and random forest provided the best accuracy of 65.3% (using SVM). Used various performance metrics like VIF, Autocorrelation, pearson correlation coefficient etc. Explains each and every step properly.
+
+Under Changing market conditions
+
+	Analysed the changing market conditions like inflation and crypocurrencies gaining popularity and then applied machine learning and deep learning models such as SVM, LSTM, ANN and random forest. Results were very similar to that obtained by the above papers with ANN performing best at 63% accuracy.
+	
+Survey Paper
+	
+	Just contains the literature review of what has been done till now. Provides insights about which are the domains where maximum
