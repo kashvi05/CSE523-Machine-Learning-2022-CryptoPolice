@@ -29,3 +29,6 @@ git clone https://github.com/kashvi05/CryptoPolice.git
 * Then, run Feature Engineering.ipnyb which takes care of outliers, lag features and feature selection.
 * After that, run Model Fitting.ipnyb which fits basic machine learning and time series models
 * Finally, run Optimization.ipnyb which find the best set of hyperparameters with lowest error rate.
+
+#### Note
+* Some of the EDA code has been moved to Kaggle notebook.
