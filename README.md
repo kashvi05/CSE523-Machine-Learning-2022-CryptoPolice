@@ -6,6 +6,14 @@
 * Through Crypto Forecasting, we intend to forecast short term return in 14 popular cryptocurencies using Machine Learning. 
 
 ## Results
+* ![](./Results/Asset%200.png)
+* ![](./Results/Correlation.png)
+* ![](./Results/Distribution%20plot.png)
+* ![](./Results/lag_feature.png)
+* ![](./Results/Model_fitting_chart.png)
+* ![](./Results/Model_Fitting.png)
+* ![](./Results/seasonality.png)
+* ![](./Results/Training%20error%20and%20Test%20error.png)
 
 ## References
 1. [A Comprehensive Guide to Time Series Analysis - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-series-analysis/)
