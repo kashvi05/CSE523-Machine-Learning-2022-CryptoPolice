@@ -56,15 +56,13 @@ git clone https://github.com/kashvi05/CryptoPolice.git
 ```
 
 #### Run the notebooks
-* First run Installation.ipnyb to ensure that you have the necessary packages required for this project to run.
-* Then, run Preprocessing.ipnyb so as to handle null values and reduce the size of dataset by combining the values for one day.
-* Then, run Exploratory Data Analysis.ipnyb to get insigts about the dataset.
-* Then, run Feature Engineering.ipnyb which takes care of outliers, lag features and feature selection.
-* After that, run Model Fitting.ipnyb which fits basic machine learning and time series models
-* Finally, run Optimization.ipnyb which find the best set of hyperparameters with lowest error rate.
-
-
-
+* First run Installation.ipynb to ensure that you have the necessary packages required for this project to run.
+* Then, run Preprocessing.ipynb so as to handle null values and reduce the size of dataset by combining the values for one day.
+* Then, run Exploratory Data Analysis.ipynb to get insigts about the dataset.
+* Then, run Feature Engineering.ipynb which takes care of outliers, lag features and feature selection.
+* After that, run Model Fitting.ipynb which fits basic machine learning and time series models
+* Moreover, run Hyperparameter Optimization.ipynb which find the best set of hyperparameters with lowest error rate.
+* Lastly, run Testing_Supplement_Train.ipynb for checking mse on test error.
 
 #### Note
 * Some of the EDA code has been moved to Kaggle notebook.
