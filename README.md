@@ -1,6 +1,6 @@
 * This is a classic regression combined with time series problem to be solved using Machine Learning.
 
-## Project Introduction
+## Introduction
 * Cryptocurrencies are one of the most popular assets for speculation and investments but they are highly volatile. The fluctuating nature causes both hype and risk. 
 * Crypto Forecasting is a process of utilizing the time-series data of given cypto currencies along with other features to predict the future value of these crypto currencies by analysing the past trends and data.
 * Through Crypto Forecasting, we intend to forecast short term return in 14 popular cryptocurencies using Machine Learning. 
@@ -10,9 +10,8 @@
 * ![](./Results/Correlation.png)
 * ![](./Results/Distribution%20plot.png)
 * ![](./Results/lag_feature.png)
-* ![](./Results/Model_fitting_chart.png)
-* ![](./Results/Model_Fitting.png)
 * ![](./Results/seasonality.png)
+* ![](./Results/Model_fitting_chart.png)
 * ![](./Results/Training%20error%20and%20Test%20error.png)
 
 ## References
