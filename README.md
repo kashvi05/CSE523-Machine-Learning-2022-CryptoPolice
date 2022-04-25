@@ -6,12 +6,19 @@
 * Through Crypto Forecasting, we intend to forecast short term return in 14 popular cryptocurencies using Machine Learning. 
 
 ## Results
+### Asset ID 0 --> Timestamp vs Target
 * ![](./Results/Asset%200.png)
+### Correlation Heatmap
 * ![](./Results/Correlation.png)
+### Distribution Plot of Target
 * ![](./Results/Distribution%20plot.png)
+### Correlation of Lag features with other features
 * ![](./Results/lag_feature.png)
+### Seasonality Curve
 * ![](./Results/seasonality.png)
+### Training error of different models
 * ![](./Results/Model_fitting_chart.png)
+### Comparision of Training error with testing error after optimization
 * ![](./Results/Training%20error%20and%20Test%20error.png)
 
 ## References
